@@ -11,3 +11,12 @@ The lectures are organised in chronological order. All materials will be uploade
 - [📄 Syllabus](http://files.skoltech.ru/data/edu/syllabuses/2021/MA030406.pdf)
 - [⭕ Canvas Page](https://skoltech.instructure.com/courses/3431)
 - [✈️ Telegram Channel](https://t.me/joinchat/06ylgy7o2JIxYzBi)
+
+
+## Deadlines
+
+| Activity | Due date |
+|----------|----------|
+|[Computer Lab 1](https://skoltech.instructure.com/courses/3431/assignments/18474)       | Oct, 5 16:00       |
+|          |          |
+|          |          |
