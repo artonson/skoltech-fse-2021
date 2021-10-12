@@ -18,5 +18,5 @@ The lectures are organised in chronological order. All materials will be uploade
 | Activity | Due date |
 |----------|----------|
 |[Computer Lab 4](https://skoltech.instructure.com/courses/3431/assignments/18554) | Oct, 14 23:59 |
-|[Computer Lab 5](https://skoltech.instructure.com/courses/3431/assignments/18581)||Lab	Oct, 13 12:00	| 
+|[Computer Lab 5](https://skoltech.instructure.com/courses/3431/assignments/18581)|	Oct, 13 12:00	| 
 |[Quiz 5](https://skoltech.instructure.com/courses/3431/quizzes/5041) |Oct, 13  12:00 |	
